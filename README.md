@@ -1,0 +1,2 @@
+# Task1
+LAUNCH AN EC2 INSTANCE 2. INSTALL GIT, DOCKER &amp; JENKINS 3. ALLOW PERMISSION : chmod 777 ///var/run /docker.sock 4. CREATE A GITHUB REPO THAT CONTAINS index.html and Dockerfile 5. WRITE A PIPELINE THAT CONTAINS 3 STAGES (code, build, deploy)
